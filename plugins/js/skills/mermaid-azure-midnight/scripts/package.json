@@ -1,0 +1,12 @@
+{
+  "name": "mermaid-azure-midnight-check",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lint and layout-check Mermaid diagrams written to the Azure Midnight standard.",
+  "type": "module",
+  "bin": { "check-mermaid": "check-mermaid.mjs" },
+  "scripts": { "check": "node check-mermaid.mjs" },
+  "dependencies": {
+    "puppeteer-core": "25.12.0"
+  }
+}

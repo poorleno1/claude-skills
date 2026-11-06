@@ -1,0 +1,11 @@
+{
+  "name": "js-skills",
+  "owner": { "name": "Jarek Olechno" },
+  "plugins": [
+    {
+      "name": "js",
+      "source": "./plugins/js",
+      "description": "Personal Claude Code skills: Azure Midnight Mermaid styling, QA review, branch review, ticket-to-PR flow."
+    }
+  ]
+}
